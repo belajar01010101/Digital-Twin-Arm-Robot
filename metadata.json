@@ -1,0 +1,6 @@
+{
+  "name": "RoboTwin 3D",
+  "description": "Interactive 6-DOF Robotic Arm Digital Twin powered by Three.js with real-time Forward & Inverse Kinematics, workspace safety diagnostics, WebSocket/MQTT telemetry synchronization, and waypoint trajectory programming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
